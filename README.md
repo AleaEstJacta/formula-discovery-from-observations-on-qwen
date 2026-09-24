@@ -30,15 +30,15 @@
 
 ## Abstract
 
-TODO
+Physics frontier discovery struggles from overflowing number of challenging to prove ideas. Introduction of a neural network can ease the process by offering formulas that follow directly from the observation data. The goal of the work is to evaluate efficacy of simple fine-tuning for formula prediction on Qwen2.5-Coder-7B to compare performance per unit of compute. The hypothesis is that smaller, fine-tuned, math-oriented model will be competitive against larger LLMs.
 
 ## Citation
 
 If you find our work helpful, please cite us.
 ```BibTeX
-@article{citekey,
-    title={Title},
-    author={Name Surname, Name Surname (consultant), Name Surname (advisor)},
+@article{QwenFinetuningForPhysicDiscoveries,
+    title={Formula discovery from observation data on QWEN},
+    author={Elizaveta Drozdova, Dmitrii Melikhov (consultant), Konstantin Vorontsov (advisor)},
     year={2025}
 }
 ```
