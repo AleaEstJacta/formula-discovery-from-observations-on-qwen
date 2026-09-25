@@ -33,3 +33,6 @@
 | 31 | Attention Is All You Need | https://arxiv.org/pdf/1706.03762 | 2 Aug 2023 | 3 |  |  |
 | 32 | Evolving Code with A Large Language Model | https://arxiv.org/pdf/2401.07102 | 13 Jun 2024 | 3 |  |  |
 | 33 | Symbolic Regression via Neural Networks | https://arxiv.org/pdf/2605.04337 | 5 May 2026 | 4 |  |  |
+| 34 | Lean Meets Theoretical Computer Science: Scalable Synthesis of Theorem Proving Challenges in Formal-Informal Pairs |	https://arxiv.org/pdf/2508.15878 | 18 May 2026 | 3 |  |  |
+| 35 | The Lean 4 Theorem Prover and Programming Language (System Description) | https://lean-lang.org/papers/lean4.pdf	| 4 |  |  |
+| 36 | A Comprehensive Survey of the Lean 4 Theorem Prover: Architecture, Applications, and Advances | https://arxiv.org/pdf/2501.18639	| 3 |  |  |
